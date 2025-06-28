@@ -20,5 +20,9 @@ components. Everything that was created provided good functionality, so there wa
 ## Testing
 * Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
 
+Security for any kind of application should be the top priority. Defining and implementing codings standards, policies, and methods such as Defense in Depth can help mitigate successful attacks from malicious users. In a full-stack application, endpoints are URL's within an API which provide users access to specific functionalities or resources. Finally, methods are different layers in an application that handle specific tasks. These taks include the frontend, backend, and the database.
+
 ## Reflection
 * How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+One of the main things that I learned, which I never though of as highly before, is understanding the importance of security and actively architecting and writing code to adhere to this. Security is more overlooked than it should be, and learning more about the benefits and drawbacks of implementing it, as well as not implementing it, will provide me with good knowledge for future employers. 
